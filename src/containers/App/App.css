@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-size: 10px;
+}

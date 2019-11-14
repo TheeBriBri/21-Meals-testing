@@ -1,0 +1,53 @@
+{
+  "name": "21Meals",
+  "short_name": "21Meals",
+  "theme_color": "#252134",
+  "background_color": "#252134",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/shop1.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop4.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop5.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/shop8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,26 @@
+.accept__decline {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1vh;
+  width: 100%;
+}
+
+.InputGroup {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.accept {
+  width: 40vw;
+}
+
+.decline {
+  width: 40vw;
+}
+
+.globalAmounts {
+  display: flex;
+  justify-content: space-between;
+}
