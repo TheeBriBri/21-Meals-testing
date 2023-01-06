@@ -20,7 +20,7 @@
   "homepage": "https://github.com/isadorabk/21meals-server#readme",
   "devDependencies": {
     "eslint": "^5.3.0",
-    "jest": "^23.5.0",
+    "jest": "^29.3.1",
     "nodemon": "^1.18.3",
     "proxyquire": "^2.0.1",
     "sinon": "^6.1.5"
